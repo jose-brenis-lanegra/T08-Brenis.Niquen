@@ -1,0 +1,89 @@
+#ejercicio01
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[9]+cad[14]+cad[18]+cad[4])      #mostrar jose
+
+#ejercicio02
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[0]+cad[13]+cad[19]+cad[14]+cad[13]+cad[8]+cad[14])      #mostrar antonio
+
+#ejercicio03
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[17]+cad[4]+cad[12]+cad[8]+cad[6]+cad[8]+cad[14])      #mostrar remigio
+
+#ejercicio04
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[1]+cad[17]+cad[4]+cad[13]+cad[8]+cad[18])      #mostrar brenis
+
+#ejercicio05
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[11]+cad[0]+cad[13]+cad[4]+cad[6]+cad[17]+cad[0])      #mostrar lanegra
+
+#ejercicio06
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[12]+cad[0]+cad[17]+cad[19]+cad[8]+cad[13])      #mostrar martin
+
+#ejercicio07
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[4]+cad[3]+cad[20]+cad[0]+cad[17]+cad[3]+cad[14])      #mostrar eduardo
+
+#ejercicio08
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[6]+cad[8]+cad[0]+cad[13]+cad[2]+cad[0]+cad[17]+cad[11]+cad[14])      #mostrar giancarlo
+
+#ejercicio09
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[17]+cad[4]+cad[13]+cad[4])      #mostrar rene
+
+#ejercicio10
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[11]+cad[8]+cad[3]+cad[0])      #mostrar lida
+
+#ejercicio11
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[3]+cad[4]+cad[11]+"/n"+cad[17]+cad[14]+cad[18]+cad[0]+cad[17]+cad[8]+cad[14])      #mostrar del rosario
+
+#ejercicio12
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[0]+cad[13]+cad[19]+cad[4]+cad[17]+cad[14])      #mostrar antero
+
+#ejercicio13
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[19]+cad[7]+cad[0]+cad[11]+cad[8]+cad[0])      #mostrar thalia
+
+#ejercicio14
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[5]+cad[17]+cad[0]+cad[13]+cad[2]+cad[8]+cad[18]+cad[2]+cad[14])      #mostrar francisco
+
+#ejercicio15
+#    0         10        20
+#    01234567890123456789012345
+cad="abcdefghijklmnopqrstuvwxyz"
+print(cad[21]+cad[0]+cad[11]+cad[4]+cad[13]+cad[19]+cad[8]+cad[13]+cad[14])      #mostrar valentino
